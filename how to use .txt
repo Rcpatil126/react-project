@@ -1,0 +1,20 @@
+
+
+        how to use your web application in that Github repository.
+
+
+Step 1: User needs to install npm on his/her device 
+
+Step 2: User has to start npm
+
+Step 3: They need to open the browser and then open localhost:3000
+
+Step 4: After opening the localhost:3000 the user can see the Registration form.
+
+Step 4: The user is required to fill the Registration form.
+
+Step 5: After completely filling the form, click on the registration button and submit the information
+
+Step 6: After clicking on the registration button you will be directed to a different page where you can see the information which you have filled in the form. 
+
+Step 7: On clicking back button you will be back on the registration form.
